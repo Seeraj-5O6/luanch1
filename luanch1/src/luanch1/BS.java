@@ -7,10 +7,10 @@ public class BS {
 
 		 
 		 
-		  int ar[]={20,30,33,36,55,100,400,500,600};
+		  int ar[]={20,30,33,36,55,100,400,500,600,700,900};
 		  int l=0;
 		  int mid;
-		  int key=55;
+		  int key=100;
 		  int h=ar.length-1;
 		  
 		  while(l<=h){
